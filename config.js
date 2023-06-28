@@ -13,10 +13,10 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈', true], 
-['5492266466080', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-['972529277026', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
-['59894808483', '𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 🥏', true],
+['51932806101', ' TIF JL 🐈', true], 
+['51990971539', 'JOSE LUIS (1) 💻', true],  
+['51936249831', 'RONYY (2) 💻', true],  
+['51932407308', 'FRANK :3 🥏', true],
 ['50664668406', 'My Kim Dan', true],
 ['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
 
@@ -80,26 +80,26 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'TIF JL 🌻🐈'
+global.author = 'SAN JUAN BOT'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['51916698322', 'TIF JL Dios 💻', 1], 
+['51980748852', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+['51990971539', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['51932407308', ' 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' //agrega tú correo
-global.desc = '' //agrega una descripción corta
+global.mail = '' //isaihinostrozamallqui@gmail.com
+global.desc = '' //TIF JL PARA AYUDARTE
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '' //agrega tú país ejemplo: PE
 
 global.vs = '1.0.2'
 global.vsJB = '3.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.gt = 'TIF JL-𝙈𝘿'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
@@ -120,8 +120,8 @@ global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 CO
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'TIF JL-𝙈𝘿 🌻🐈 : TIF JL'
+global.igfg = 'TIF JL-𝙈𝘿'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
