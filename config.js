@@ -13,12 +13,12 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['51932806101', ' TIF JL 🐈', true], 
+['51980748852', ' TIRF JL 🐈', true], 
 ['51990971539', 'JOSE LUIS (1) 💻', true],  
 ['51936249831', 'RONYY (2) 💻', true],  
 ['51932407308', 'FRANK :3 🥏', true],
 ['50664668406', 'My Kim Dan', true],
-['593968585383'], ['59894808483'], ['5217441745001'], ['5492266613038']]
+['51980748852'], ['59894808483'], ['5217441745001'], ['5492266613038']]
 
 global.mods = [] 
 global.prems = []
@@ -80,13 +80,13 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = 'TIF JL 🌻🐈'
+global.packname = 'TIRF JL 🌻🐈'
 global.author = 'SAN JUAN BOT'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['51916698322', 'TIF JL Dios 💻', 1], 
+['51916698322', 'TIRF JL Dios 💻', 1], 
 ['51980748852', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['51990971539', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['51932407308', ' 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
@@ -120,7 +120,7 @@ global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 CO
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-global.wm = 'TIF JL-𝙈𝘿 🌻🐈 : TIF JL'
+global.wm = 'TIRF JL-𝙈𝘿 🌻🐈 : TIF JL'
 global.igfg = 'TIF JL-𝙈𝘿'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
